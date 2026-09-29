@@ -1,0 +1,13 @@
+# Virtual Environment (jangan pernah di-push)
+venv/
+.venv/
+env/
+
+# Python cache & Jupyter checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data cache / downloads
+data/
+*.csv
