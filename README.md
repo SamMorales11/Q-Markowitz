@@ -198,7 +198,7 @@ Q-Markowitz/
 ### 4. QAOA Variational Circuit Mechanics
 QAOA prepares a parameterized quantum trial state $\vert{}\psi(\boldsymbol{\gamma}, \boldsymbol{\beta})\rangle$ through alternating applications of problem and mixer unitaries:
 
-1. assets/dashboard_overview.png: Full browser screenshot of the running Streamlit dashboard.
+1. <img width="1857" height="860" alt="Screenshot 2026-09-30 193630" src="https://github.com/user-attachments/assets/83e78332-b791-4218-98e1-085d04652f2e" /> : Full browser screenshot of the running Streamlit dashboard.
 2. assets/qaoa_circuit.png: Parameterized QAOA circuit diagram generated from the notebook.
 3. assets/q_sensitivity_heatmap.png: Heatmap showing asset transitions across parameter $q$.
 4. assets/risk_return_frontier.png: Scatter plot showing the Markowitz pseudo-efficient frontier.
