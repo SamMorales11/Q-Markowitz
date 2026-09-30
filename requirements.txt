@@ -8,5 +8,6 @@ yfinance
 scipy
 matplotlib
 seaborn
-ipykernel
 pylatexenc
+streamlit
+plotly
