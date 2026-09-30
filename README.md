@@ -198,10 +198,10 @@ Q-Markowitz/
 ### 4. QAOA Variational Circuit Mechanics
 QAOA prepares a parameterized quantum trial state $\vert{}\psi(\boldsymbol{\gamma}, \boldsymbol{\beta})\rangle$ through alternating applications of problem and mixer unitaries:
 
-1. <img width="1857" height="860" alt="Screenshot 2026-09-30 193630" src="https://github.com/user-attachments/assets/83e78332-b791-4218-98e1-085d04652f2e" /> : Full browser screenshot of the running Streamlit dashboard.
-2. assets/qaoa_circuit.png: Parameterized QAOA circuit diagram generated from the notebook.
-3. assets/q_sensitivity_heatmap.png: Heatmap showing asset transitions across parameter $q$.
-4. assets/risk_return_frontier.png: Scatter plot showing the Markowitz pseudo-efficient frontier.
-5. assets/convergence_comparison.png: Expectation value convergence curve over optimizer iterations.
-6. assets/probability_depth_comparison.png: Bar chart comparing ground-state measurement probabilities ($p=1$ vs $p=2$).
-7. assets/nisq_noise_impact.png: Comparative bar plot showing statevector vs. simulated noisy quantum execution.
+1. ## Full browser screenshot of the running Streamlit dashboard. <img width="1857" height="860" alt="Screenshot 2026-09-30 193630" src="https://github.com/user-attachments/assets/83e78332-b791-4218-98e1-085d04652f2e" />
+3. assets/qaoa_circuit.png: Parameterized QAOA circuit diagram generated from the notebook.
+4. assets/q_sensitivity_heatmap.png: Heatmap showing asset transitions across parameter $q$.
+5. assets/risk_return_frontier.png: Scatter plot showing the Markowitz pseudo-efficient frontier.
+6. assets/convergence_comparison.png: Expectation value convergence curve over optimizer iterations.
+7. assets/probability_depth_comparison.png: Bar chart comparing ground-state measurement probabilities ($p=1$ vs $p=2$).
+8. assets/nisq_noise_impact.png: Comparative bar plot showing statevector vs. simulated noisy quantum execution.
