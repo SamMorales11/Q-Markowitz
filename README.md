@@ -200,7 +200,8 @@ QAOA prepares a parameterized quantum trial state $\vert{}\psi(\boldsymbol{\gamm
 
 1. Full browser screenshot of the running Streamlit dashboard.
    <img width="1857" height="860" alt="Screenshot 2026-09-30 193630" src="https://github.com/user-attachments/assets/83e78332-b791-4218-98e1-085d04652f2e" />
-3. assets/qaoa_circuit.png: Parameterized QAOA circuit diagram generated from the notebook.
+2. Parameterized QAOA circuit diagram generated from the notebook.
+   <img width="1304" height="379" alt="Screenshot 2026-09-30 194133" src="https://github.com/user-attachments/assets/aff41fb2-d493-41cb-a1fb-79e6603ae51c" />
 4. assets/q_sensitivity_heatmap.png: Heatmap showing asset transitions across parameter $q$.
 5. assets/risk_return_frontier.png: Scatter plot showing the Markowitz pseudo-efficient frontier.
 6. assets/convergence_comparison.png: Expectation value convergence curve over optimizer iterations.
