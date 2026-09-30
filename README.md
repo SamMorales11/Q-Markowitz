@@ -193,4 +193,15 @@ Q-Markowitz/
 ├── requirements.txt              # Pinned environment dependencies
 ├── .gitignore                    # Environment & cache exclusion rules
 ├── LICENSE                       # MIT Open-Source License
-└── README.md                     # Comprehensive technical documentation
+```
+
+### 4. QAOA Variational Circuit Mechanics
+QAOA prepares a parameterized quantum trial state $\vert{}\psi(\boldsymbol{\gamma}, \boldsymbol{\beta})\rangle$ through alternating applications of problem and mixer unitaries:
+
+1. assets/dashboard_overview.png: Full browser screenshot of the running Streamlit dashboard.
+2. assets/qaoa_circuit.png: Parameterized QAOA circuit diagram generated from the notebook.
+3. assets/q_sensitivity_heatmap.png: Heatmap showing asset transitions across parameter $q$.
+4. assets/risk_return_frontier.png: Scatter plot showing the Markowitz pseudo-efficient frontier.
+5. assets/convergence_comparison.png: Expectation value convergence curve over optimizer iterations.
+6. assets/probability_depth_comparison.png: Bar chart comparing ground-state measurement probabilities ($p=1$ vs $p=2$).
+7. assets/nisq_noise_impact.png: Comparative bar plot showing statevector vs. simulated noisy quantum execution.
